@@ -87,10 +87,8 @@
 
 <!-- START OF STATS -->
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=afifalsaad&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifalsaad&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifalsaad&theme=radical"/>
 </p>
-
 
 <!-- END OF STATS -->
 ---
