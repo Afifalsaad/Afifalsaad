@@ -29,21 +29,33 @@
 
 ---
 
-<h3 align="left">Tech Logos:</h3>
+<h3 align="left">Tech Stack:</h3>
+
+<h4>Frontend</h4>
 <p align="left">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=15d8fe">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&animation=spin&svgfill=15d8fe">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&animation=spin&svgfill=15d8fe">
-
-  
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=38bdf8">
 </p>
+
+<h4>Backend</h4>
+<p align="left">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</p>
+
+<h4>Database</h4>
+<p align="left">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=4db33d">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffca28">
+</p>
+
+<h4>Tools & Platforms</h4>
+<p align="left">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</p>
+
 
 ---
 
