@@ -1,5 +1,10 @@
 
 <p align='center'>
+  <img src="https://i.ibb.co.com/zV43Tx0p/Blue-and-Yellow-Modern-Developer-Twitter-Header.png" />
+</p>
+<br/>
+<br/>
+<p align='center'>
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </p>
 <h1 align="center">Hi 👋, I'm Afif Al Saad</h1>
