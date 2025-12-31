@@ -85,8 +85,6 @@
 ---
 
 <!-- START OF STATS -->
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=afifalsaad&theme=radical" />
 </p>
