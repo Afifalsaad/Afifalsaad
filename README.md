@@ -43,6 +43,7 @@
 <h4>Backend</h4>
 <p align="left">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
 </p>
 
 <h4>Database</h4>
