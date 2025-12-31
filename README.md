@@ -32,7 +32,7 @@
 <h3 align="left">Tech Stack:</h3>
 
 <h4>Frontend</h4>
-<p align="left">
+<p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1">
