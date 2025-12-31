@@ -32,6 +32,7 @@
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React, Node.js and Next.js**
 - 📫 How to reach me **afifalsaad01@gmail.com**
+- 📞 Phone +880 1720085585
 
 ---
 
