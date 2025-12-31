@@ -1,4 +1,3 @@
-
 <p align='center'>
   <img src="https://i.ibb.co.com/zV43Tx0p/Blue-and-Yellow-Modern-Developer-Twitter-Header.png" />
 </p>
@@ -50,7 +49,6 @@
 <h4>Backend</h4>
 <p align="left">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
 </p>
 
 <h4>Database</h4>
@@ -58,16 +56,15 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=4db33d">
 </p>
 
-<h4>Tools & Platforms</h4>
-<p align="left">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</p>
-
-
 <h4>Deployment</h4>
 <p align="left">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel&animation=spin&svgfill=15d8fe">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffca28">
+</p>
+
+<h4>Tools & Platforms</h4>
+<p align="left">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -91,14 +88,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=afifalsaad&theme=radical" />
 </p>
 
 
 <!-- END OF STATS -->
-
-
 ---
 
 <p align='center'>
