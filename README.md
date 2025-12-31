@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afif Al Saad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afifalsaad&label=Profile%20views&color=0e75b6&style=flat" alt="afifalsaad" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=afifalsaad&label=Profile%20views&color=0e75b6&style=flat" alt="afifalsaad" /> </p>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -105,7 +105,7 @@ const Saad = {
   },
 currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
 funFact: "Most bugs disappear after a coffee and a clean commit history"
-};
+}; -->
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
