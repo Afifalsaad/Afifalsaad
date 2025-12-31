@@ -57,6 +57,12 @@
 </p>
 
 
+<h4>Server Side Deployment</h4>
+<p align="left">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel&animation=spin&svgfill=15d8fe">
+</p>
+
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
