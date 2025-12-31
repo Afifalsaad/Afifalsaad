@@ -40,6 +40,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=15d8fe">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&animation=spin&svgfill=15d8fe">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&animation=spin&svgfill=15d8fe">
 
   
 </p>
