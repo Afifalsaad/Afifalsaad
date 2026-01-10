@@ -87,7 +87,7 @@
 
 <!-- START OF STATS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifalsaad&theme=radical"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=afifalsaad&theme=dark"/>
 </p>
 
 <p align="center">
